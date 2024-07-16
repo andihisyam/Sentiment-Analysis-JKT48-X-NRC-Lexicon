@@ -1,0 +1,1 @@
+# Sentiment-Analysis-JKT48-X-NRC-Lexicon
